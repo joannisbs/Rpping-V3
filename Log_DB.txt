@@ -1,0 +1,216 @@
+connection has been established with successful at 2018_06_15-08-45 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-08-45 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-08-45 
+Db connection has been closed at 2018_06_15-08-45 
+connection has been established with successful at 2018_06_15-08-46 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-08-46 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-08-46 
+Db connection has been closed at 2018_06_15-08-46 
+connection has been established with successful at 2018_06_15-08-47 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-08-47 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-08-47 
+Db connection has been closed at 2018_06_15-08-47 
+connection has been established with successful at 2018_06_15-08-48 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-08-48 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-08-48 
+Db connection has been closed at 2018_06_15-08-48 
+connection has been established with successful at 2018_06_15-09-20 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-20 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-20 
+Db connection has been closed at 2018_06_15-09-20 
+connection has been established with successful at 2018_06_15-09-20 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-20 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-20 
+Db connection has been closed at 2018_06_15-09-20 
+connection has been established with successful at 2018_06_15-09-21 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-21 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-21 
+Db connection has been closed at 2018_06_15-09-21 
+connection has been established with successful at 2018_06_15-09-21 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-21 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-21 
+Db connection has been closed at 2018_06_15-09-21 
+connection has been established with successful at 2018_06_15-09-25 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-25 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-25 
+Db connection has been closed at 2018_06_15-09-25 
+connection has been established with successful at 2018_06_15-09-25 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-25 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-25 
+Db connection has been closed at 2018_06_15-09-25 
+connection has been established with successful at 2018_06_15-09-26 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-26 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-26 
+Db connection has been closed at 2018_06_15-09-26 
+connection has been established with successful at 2018_06_15-09-26 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-26 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-26 
+Db connection has been closed at 2018_06_15-09-26 
+connection has been established with successful at 2018_06_15-09-36 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-36 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-36 
+Db connection has been closed at 2018_06_15-09-36 
+connection has been established with successful at 2018_06_15-09-36 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-36 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-36 
+Db connection has been closed at 2018_06_15-09-36 
+connection has been established with successful at 2018_06_15-09-37 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-37 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-37 
+Db connection has been closed at 2018_06_15-09-37 
+connection has been established with successful at 2018_06_15-09-37 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-37 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-37 
+Db connection has been closed at 2018_06_15-09-37 
+connection has been established with successful at 2018_06_15-09-40 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-40 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-40 
+Db connection has been closed at 2018_06_15-09-40 
+connection has been established with successful at 2018_06_15-09-40 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-40 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-40 
+Db connection has been closed at 2018_06_15-09-40 
+connection has been established with successful at 2018_06_15-09-53 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-53 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-53 
+Db connection has been closed at 2018_06_15-09-53 
+connection has been established with successful at 2018_06_15-09-53 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-53 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-53 
+Db connection has been closed at 2018_06_15-09-53 
+connection has been established with successful at 2018_06_15-09-54 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-54 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-54 
+Db connection has been closed at 2018_06_15-09-54 
+connection has been established with successful at 2018_06_15-09-54 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-54 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-54 
+Db connection has been closed at 2018_06_15-09-54 
+connection has been established with successful at 2018_06_15-09-55 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-55 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-55 
+Db connection has been closed at 2018_06_15-09-55 
+connection has been established with successful at 2018_06_15-09-55 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-09-55 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-09-55 
+Db connection has been closed at 2018_06_15-09-55 
+connection has been established with successful at 2018_06_15-10-02 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-10-02 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-10-02 
+Db connection has been closed at 2018_06_15-10-02 
+connection has been established with successful at 2018_06_15-10-03 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-10-03 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-10-03 
+Db connection has been closed at 2018_06_15-10-03 
+connection has been established with successful at 2018_06_15-10-06 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-10-06 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-10-06 
+Db connection has been closed at 2018_06_15-10-06 
+connection has been established with successful at 2018_06_15-10-06 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-10-06 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-10-06 
+Db connection has been closed at 2018_06_15-10-06 
+connection has been established with successful at 2018_06_15-10-10 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-10-10 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-10-10 
+Db connection has been closed at 2018_06_15-10-10 
+connection has been established with successful at 2018_06_15-10-10 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-10-10 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-10-10 
+Db connection has been closed at 2018_06_15-10-10 
+connection has been established with successful at 2018_06_15-10-12 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-10-12 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-10-12 
+Db connection has been closed at 2018_06_15-10-12 
+connection has been established with successful at 2018_06_15-10-12 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-10-12 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-10-12 
+Db connection has been closed at 2018_06_15-10-12 
+connection has been established with successful at 2018_06_15-10-51 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-10-51 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-10-51 
+Db connection has been closed at 2018_06_15-10-51 
+connection has been established with successful at 2018_06_15-10-51 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-10-51 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-10-51 
+Db connection has been closed at 2018_06_15-10-51 
+connection has been established with successful at 2018_06_15-10-53 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-10-53 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-10-53 
+Db connection has been closed at 2018_06_15-10-53 
+connection has been established with successful at 2018_06_15-10-53 in db_monit 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_emp << 2018_06_15-10-53 
+Query execution was successfully executed:
+   ---> SELECT * FROM tbl_rep ORDER BY name_rep << 2018_06_15-10-53 
+Db connection has been closed at 2018_06_15-10-53 
